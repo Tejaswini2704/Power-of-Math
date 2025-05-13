@@ -58,8 +58,8 @@ Developed a fully serverless web application, Power of Math, that performs mathe
      -    Branch Name - dev
 - **Method :** Drag and Drop
 - Select the index.zip folder, we just created.
-- Save and Depoly.
-- Open the link.
+- Save and Deploy.
+- Visit Deployment URL.
 - Following page will open.
  
   ![Screenshot 2025-05-12 210138](https://github.com/user-attachments/assets/2f897e37-75af-4721-bc6b-1518bfc891d0)
