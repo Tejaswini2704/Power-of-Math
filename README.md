@@ -98,8 +98,8 @@ def lambda_handler(event, context):
     -    Event in JSON:
 ```
 {
-  "base" : 2,
-  "exponent" : 4
+   "base" : 2,
+   "exponent" : 4
 }
 ```
 - You will get status code: 200 , it means our lambda funtion is workig properly.
@@ -129,7 +129,7 @@ def lambda_handler(event, context):
 - go to resources, click on POST
 - test the API with following code.
 ```
- {
+{ 
   "base" : 2,
   "exponent" : 4
 }
