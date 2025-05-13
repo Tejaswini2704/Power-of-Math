@@ -51,7 +51,7 @@ Developed a fully serverless web application, Power of Math, that performs mathe
 ```
 ## **step 2: Deploying and hosting a web page using AWS Amplify**
 - Go to AWS management console and search for "Amplify".
-- Go to AWS Amplify & congigure following details:
+- Go to AWS Amplify & configure following details:
 - **Start Building with Amplify :**  Deploy without Git
 - **Start manual deployment :**
      -    App Name -PowerOfMath
