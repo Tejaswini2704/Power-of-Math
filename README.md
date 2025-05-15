@@ -64,7 +64,7 @@ Developed a fully serverless web application, Power of Math, that performs mathe
  
   ![Screenshot 2025-05-12 210138](https://github.com/user-attachments/assets/2f897e37-75af-4721-bc6b-1518bfc891d0)
 
-  ## **step 3: Creating a Lambda function to implement our math functionaliy **
+  ## **step 3: Creating a Lambda function to implement our math functionaliy**
 - Go to AWS Lambda service.
 - click on "create a function".
 - Select "Auther from scratch".
