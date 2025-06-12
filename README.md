@@ -20,15 +20,15 @@ Developed a fully serverless web application, Power of Math, that performs mathe
 ---
 
 ## 💡Key Highlights:
-- Designed and deployed a fully serverless, scalable architecture.
+- ✅ Designed and deployed a fully serverless, scalable architecture.
 
-- Implemented secure API endpoints using IAM and API Gateway.
+- ✅ Implemented secure API endpoints using IAM and API Gateway.
 
-- Achieved seamless frontend-backend integration using Amplify and Lambda.
+- ✅ Achieved seamless frontend-backend integration using Amplify and Lambda.
 
-- Optimized DynamoDB queries for fast data access and storage.
+- ✅ Optimized DynamoDB queries for fast data access and storage.
 
-- Gained hands-on experience in cloud-native development and AWS best practices.
+- ✅ Gained hands-on experience in cloud-native development and AWS best practices.
 
   ---
   ## 💡 Use Cases
