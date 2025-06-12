@@ -49,8 +49,9 @@ Suggestions and pull requests are welcome! Help us improve Power of Math for lea
 ## 📫 Contact
 
 👤 **Tejaswini**  
-🔗 [GitHub](https://github.com/Tejaswini2704)  
-📧 shirketejaswini10@gmail.com 
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/tejaswini-shirke-85aa3a27a)
+- 🔗 [GitHub](https://github.com/Tejaswini2704)  
+- 📧 shirketejaswini10@gmail.com 
 
 ---
 
